@@ -33,26 +33,11 @@
 
 # 🌍 Real-World Use:
 
-This code simulates the operation of a basic coffee machine. It could serve as a starting point for building a real coffee vending machine or a coffee shop point-of-sale system with additional features. Real-world applications might include:
+This code simulates the operation of a basic coffee machine. It could serve as a starting point for building a real coffee vending machine or a coffee shop point-of-sale system with additional features. This code can be adapted for use in a cafe or coffee shop as a point-of-sale system. It could track orders, manage inventory, and handle payments.
 
-1. **Coffee Vending Machine**: You can expand on this code to create software for a coffee vending machine, where customers can make coffee selections, insert money, and receive their beverages.
-
-2. **Cafe Point-of-Sale System**: This code can be adapted for use in a cafe or coffee shop as a point-of-sale system. It could track orders, manage inventory, and handle payments.
-
-3. **Inventory Management**: Beyond coffee, you can modify the code to manage the inventory of other items in a vending machine or store, such as snacks or beverages.
 
 # 📝 Note:
 
 The data file containing all the ingredients and resource quantity information is kept private and can be accessed upon request. This file is necessary for altering the storage of resources and ingredients used in the coffee machine. Please ensure that access to this data is properly controlled and managed in accordance with your application's security requirements.
 
 
-
-
-
-
-
-5. **Payment Processing**: Integrate payment processing systems to accept credit cards or mobile payments, making it more convenient for customers.
-
-6. **User Interface**: Enhance the user interface to make it more user-friendly, possibly with touchscreen capabilities.
-
-Remember that for real-world applications, you may need to consider security, robustness, and scalability, depending on the complexity and scale of the system you're developing.
