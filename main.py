@@ -1,6 +1,5 @@
 import data
 
-print(data.logo)
 
 proceed = "Yes"
 while proceed == "Yes":
