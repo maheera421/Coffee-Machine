@@ -3,7 +3,7 @@
 
 # ☕ How the Machine Works:
 
-1. The machine starts with a welcome message (assumed to be defined in `data.logo`) and enters a loop where users can interact with it.
+1. The machine starts with a welcome message and enters a loop where users can interact with it.
 
 2. Users can perform three main functions:
    - **Order**: Users can place an order for coffee by selecting from the available options (Espresso, Latte, Cappuccino). They are prompted to insert coins (quarters, dimes, nickels, and pennies) to pay for their order.
@@ -22,8 +22,6 @@
    - If the user has inserted enough money, it calculates the change, deducts the required resources, and dispenses the coffee.
 
 # 🛠️ Code Specifications:
-
-- `data.logo`: This variable contains a logo or a welcome message for the coffee machine.
 
 - `data.resources`: This dictionary holds the current resource levels (water, milk, coffee) in the machine.
 
