@@ -36,8 +36,4 @@
 This code simulates the operation of a basic coffee machine. It could serve as a starting point for building a real coffee vending machine or a coffee shop point-of-sale system with additional features. This code can be adapted for use in a cafe or coffee shop as a point-of-sale system. It could track orders, manage inventory, and handle payments.
 
 
-# 📝 Note:
-
-The data file containing all the ingredients and resource quantity information is kept private and can be accessed upon request. This file is necessary for altering the storage of resources and ingredients used in the coffee machine. Please ensure that access to this data is properly controlled and managed in accordance with your application's security requirements.
-
 
